@@ -61,3 +61,7 @@ Example
     $ exit
     virtualenv-here: Exiting subshell (status 0) for project: '.'
 
+    $ python -c 'import peppercorn'
+    Traceback (most recent call last):
+      File "<string>", line 1, in <module>
+    ImportError: No module named peppercorn
