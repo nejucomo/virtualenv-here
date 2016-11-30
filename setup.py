@@ -11,7 +11,7 @@ setup(
     version='0.1',
     author='Nathan Wilcox',
     author_email='nejucomo@gmail.com',
-    license='GPLv3',
+    license='MIT',
     url='https://github.com/nejucomo/{}'.format(PACKAGE),
 
     packages=find_packages(),
