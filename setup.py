@@ -7,7 +7,7 @@ PACKAGE = 'virtualenv_here'
 
 setup(
     name=PACKAGE,
-    description='Manage a virtualenv for a project w/out caring where the virtualenv dir lives.',
+    description="Manage a virtualenv for a project based on the its path.",
     version='0.1',
     author='Nathan Wilcox',
     author_email='nejucomo@gmail.com',
